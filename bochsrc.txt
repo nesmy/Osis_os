@@ -1,0 +1,5 @@
+
+
+
+floppya: 1_44="$HOME/Osis_os/build/boot.bin", status=inserted
+boot: floppy

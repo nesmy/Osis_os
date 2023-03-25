@@ -1,0 +1,6 @@
+
+
+
+megs: 128
+romimage: file=/usr/share/BIOS-bochs-latest, address=0xfffe0000
+vgaromimage: file=/usr/share/bochs/VGABIOS-lgpl-latest
